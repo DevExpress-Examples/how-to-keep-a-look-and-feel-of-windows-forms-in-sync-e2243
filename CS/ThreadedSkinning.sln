@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadedSkinning", "ThreadedSkinning\ThreadedSkinning.csproj", "{9B34E68E-620D-4EF2-B6CD-7E275CD805FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B34E68E-620D-4EF2-B6CD-7E275CD805FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B34E68E-620D-4EF2-B6CD-7E275CD805FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B34E68E-620D-4EF2-B6CD-7E275CD805FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B34E68E-620D-4EF2-B6CD-7E275CD805FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
