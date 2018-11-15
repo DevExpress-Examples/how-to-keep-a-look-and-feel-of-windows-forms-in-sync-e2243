@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/ThreadedSkinning/Form1.cs) (VB: [Form1.vb](./VB/ThreadedSkinning/Form1.vb))
+* [Form2.cs](./CS/ThreadedSkinning/Form2.cs) (VB: [Form2.vb](./VB/ThreadedSkinning/Form2.vb))
+* [Program.cs](./CS/ThreadedSkinning/Program.cs) (VB: [Program.vb](./VB/ThreadedSkinning/Program.vb))
+<!-- default file list end -->
 # How to keep a look and feel of Windows forms in sync
 
 
